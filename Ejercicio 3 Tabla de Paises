@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Paises y su Capital</title>
+  </head>
+
+  <body>
+     <table>
+        <tr>
+          <th>País</th>
+          <th>Capital</th> 
+        </tr>
+        <tr>
+          <td>Argentina</td>
+          <td>Buenos Aires</td>  
+        </tr>
+        <tr>
+          <td>Brasil</td>
+          <td>Brasilia</td>  
+        </tr>
+        <tr>
+          <td>Chile</td>
+          <td>Santiago de Chile</td>  
+        </tr>
+        <tr>
+          <td>Colombia</td>
+          <td>Bogotá</td>  
+        </tr>  
+     </table>
+
+     <h4>Consulta el listado de todos los paises con sus capitales en <a href="https://www.infolaso.com/paises-y-capitales-del-mundo-por-continentes.html">Infolaso</a></h4>    
+                                                                    
+   
+  </body>   
+</html>  

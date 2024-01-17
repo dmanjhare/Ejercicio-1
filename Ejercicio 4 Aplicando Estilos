@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Prueba Estilos CSS</title>
+  </head>
+
+  <body>
+    <h1><strong>Esto es negrita</strong></h1>
+    <h1><em>Esto es cursiva</em></h1>
+    <h1><u>Esto es subrayado</u></h1>
+    <big>Esto es Letra Grande</big>
+    <small>Esto es Letra Pequeña</small>
+    <h1 style="color:blue;">Esta frase esta en azul</h1>
+    <h1 style="background-color: red;">Esta frase tendrá el fondo rojo</h1>
+  </body>
+</html>
+
